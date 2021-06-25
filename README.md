@@ -2,4 +2,4 @@
 Welcome to my personal website!
 
 # My LinkedIn Profile
-Connect with me on LinkedIn ([link](https://www.linkedin.com/in/jinwei-ang/))!
+Connect with me on LinkedIn [Here](https://www.linkedin.com/in/jinwei-ang/)!
